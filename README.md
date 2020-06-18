@@ -1,3 +1,13 @@
+## Back-End Link:
+
+[HERE](https://github.com/korenenyles/drf_shoestore)
+
+
+## References: 
+Worked with Christopher Wilson and Sean Bailey, also watched the demo by Peter Marsh and used these links: https://reactjs.org/docs/faq-ajax.html (Links to an external site.)Links to an external site.
+https://www.django-rest-framework.org/topics/ajax-csrf-cors/#cors
+https://github.com/adamchainz/django-cors-headers
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
