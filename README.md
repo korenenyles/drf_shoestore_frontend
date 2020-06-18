@@ -4,7 +4,7 @@
 
 
 ## References: 
-Worked with Christopher Wilson and Sean Bailey, also watched the demo by Peter Marsh and used these links: https://reactjs.org/docs/faq-ajax.html (Links to an external site.)Links to an external site.
+Worked with Christopher Wilson and Sean Bailey, also watched the demo by Peter Marsh and used these links: https://reactjs.org/docs/faq-ajax.html 
 https://www.django-rest-framework.org/topics/ajax-csrf-cors/#cors
 https://github.com/adamchainz/django-cors-headers
 
