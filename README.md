@@ -1,3 +1,8 @@
+
+## Back-End Link:
+
+[HERE](https://github.com/korenenyles/drf_shoestore)
+
 ## Assessment:
 For this assessment, we will be creating a new React frontend and reusing our backend from Django ReST Framework: APIs in a Nutshell 
 
@@ -33,10 +38,6 @@ Requirements
     Backend is setup with django-cors-headers (Links to an external site.)Links to an external site.
     Create at least 5 instances of Shoe via the DRF "admin panel".
 
-
-## Back-End Link:
-
-[HERE](https://github.com/korenenyles/drf_shoestore)
 
 
 ## References: 
